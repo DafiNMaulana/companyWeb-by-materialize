@@ -1,0 +1,31 @@
+.slider h3,
+.slider h5,
+.clients h3 {
+	text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+}
+
+.slides img {
+	opacity: .8 !important;
+}
+
+.parallax-container {
+	height: 240px;
+}
+
+.parallax img {
+	opacity: .9 !important;
+}
+
+.clients img {
+	max-width: 200px;
+	filter: drop-shadow(1px 1px 1px rgba(0,0,0,0.5));
+}
+
+footer {
+	padding: 10px;
+	font-family: 'Julius Sans One', sans-serif;
+}
+
+#footer a:hover {
+	text-decoration: underline;
+}
