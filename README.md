@@ -117,7 +117,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```
-   $git clone https://github.com/DafiNMaulana/prokes-smk.git
+   $git clone https://github.com/DafiNMaulana/companyWeb-by-materialize.git
    ```
 2. if you doesnt have a git you can download code as zip by click a `code` button and download as `zip`
 3. after download the file you can extract the zip and you can go to the next step
